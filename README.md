@@ -1,6 +1,8 @@
 # A-Japanese-translation-of-the-Charles-Thomson-Bible
 チャールズ・トムソン訳聖書の日本語訳
 
+[創世記　1章](./Genesis-01.txt)
+
 ## Charles Thomson Bible について
 
 Charles Thomson Bible（1808年）は、ギリシア語七十人訳聖書（Septuagint）を
