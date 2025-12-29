@@ -9,6 +9,20 @@ Charles Thomson Bible は、七十人訳聖書を英語へ「できるだけ忠�
 その英語訳の語感・構造・論理を日本語に移すことを目的としています。
 
 ---
+## 📄 ファイル一覧（創世記）
+<details>
+<summary>創世記（Genesis）</summary>
+
+- [創世記 1章](./Genesis-01.txt)  
+- [創世記 2章](./Genesis-02.txt)  
+- [創世記 3章](./Genesis-03.txt)  
+- [創世記 4章](./Genesis-04.txt)  
+- [創世記 5章](./Genesis-05.txt)  
+
+</details>
+
+---
+
 
 ## 📘 なぜ「トムソン訳」に忠実なのか（日本語ユーザー向けの背景）
 
@@ -41,20 +55,6 @@ Charles Thomson Bible は、七十人訳聖書を英語へ「できるだけ忠�
 - 逐語訳寄りで、省略しない  
 - 意味を単純化しすぎず、英語の論理が透けて見える訳を目指す  
 - トムソン訳の特徴（語順・接続詞・文構造）を可能な限り保持  
-
----
-
-## 📄 ファイル一覧（創世記）
-<details>
-<summary>創世記（Genesis）</summary>
-
-- [創世記 1章](./Genesis-01.txt)  
-- [創世記 2章](./Genesis-02.txt)  
-- [創世記 3章](./Genesis-03.txt)  
-- [創世記 4章](./Genesis-04.txt)  
-- [創世記 5章](./Genesis-05.txt)  
-
-</details>
 
 ---
 
