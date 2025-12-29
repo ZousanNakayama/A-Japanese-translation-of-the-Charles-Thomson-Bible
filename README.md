@@ -1,11 +1,18 @@
 # A-Japanese-translation-of-the-Charles-Thomson-Bible
 チャールズ・トムソン訳聖書の日本語訳
 
-[創世記  1章](./Genesis-01.txt)
-[創世記  2章](./Genesis-02.txt)
-[創世記  3章](./Genesis-03.txt)
-[創世記  4章](./Genesis-04.txt)
-[創世記  5章](./Genesis-05.txt)
+<details>
+<summary>創世記（Genesis）リンク一覧を開く</summary>
+
+- [創世記 1章](./Genesis-01.txt)
+- [創世記 2章](./Genesis-02.txt)
+- [創世記 3章](./Genesis-03.txt)
+- [創世記 4章](./Genesis-04.txt)
+- [創世記 5章](./Genesis-05.txt)
+
+</details>
+
+
 
 ## Charles Thomson Bible について
 
