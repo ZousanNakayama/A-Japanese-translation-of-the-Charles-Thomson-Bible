@@ -1,66 +1,37 @@
 # 創世記
 
-
-
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 16px;">
+## 章一覧 / Chapters
 
-  <a href="../Genesis/Genesis-01.txt">1章</a>
-  <a href="../Genesis/Genesis-02.txt">2章</a>
-  <a href="../Genesis/Genesis-03.txt">3章</a>
-  <a href="../Genesis/Genesis-04.txt">4章</a>
-  <a href="../Genesis/Genesis-05.txt">5章</a>
-  <a href="../Genesis/Genesis-06.txt">6章</a>
-  <a href="../Genesis/Genesis-07.txt">7章</a>
-  <a href="../Genesis/Genesis-08.txt">8章</a>
-  <a href="../Genesis/Genesis-09.txt">9章</a>
-  <a href="../Genesis/Genesis-10.txt">10章</a>
+| [1章](../Genesis/Genesis-01.txt) | [2章](../Genesis/Genesis-02.txt) | [3章](../Genesis/Genesis-03.txt) | [4章](../Genesis/Genesis-04.txt) | [5章](../Genesis/Genesis-05.txt) |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 
-  <a href="../Genesis/Genesis-11.txt">11章</a>
-  <a href="../Genesis/Genesis-12.txt">12章</a>
-  <a href="../Genesis/Genesis-13.txt">13章</a>
-  <a href="../Genesis/Genesis-14.txt">14章</a>
-  <a href="../Genesis/Genesis-15.txt">15章</a>
-  <a href="../Genesis/Genesis-16.txt">16章</a>
-  <a href="../Genesis/Genesis-17.txt">17章</a>
-  <a href="../Genesis/Genesis-18.txt">18章</a>
-  <a href="../Genesis/Genesis-19.txt">19章</a>
-  <a href="../Genesis/Genesis-20.txt">20章</a>
+| [6章](../Genesis/Genesis-06.txt) | [7章](../Genesis/Genesis-07.txt) | [8章](../Genesis/Genesis-08.txt) | [9章](../Genesis/Genesis-09.txt) | [10章](../Genesis/Genesis-10.txt) |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|
 
-  <a href="../Genesis/Genesis-21.txt">21章</a>
-  <a href="../Genesis/Genesis-22.txt">22章</a>
-  <a href="../Genesis/Genesis-23.txt">23章</a>
-  <a href="../Genesis/Genesis-24.txt">24章</a>
-  <a href="../Genesis/Genesis-25.txt">25章</a>
-  <a href="../Genesis/Genesis-26.txt">26章</a>
-  <a href="../Genesis/Genesis-27.txt">27章</a>
-  <a href="../Genesis/Genesis-28.txt">28章</a>
-  <a href="../Genesis/Genesis-29.txt">29章</a>
-  <a href="../Genesis/Genesis-30.txt">30章</a>
+| [11章](../Genesis/Genesis-11.txt) | [12章](../Genesis/Genesis-12.txt) | [13章](../Genesis/Genesis-13.txt) | [14章](../Genesis/Genesis-14.txt) | [15章](../Genesis/Genesis-15.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 
-  <a href="../Genesis/Genesis-31.txt">31章</a>
-  <a href="../Genesis/Genesis-32.txt">32章</a>
-  <a href="../Genesis/Genesis-33.txt">33章</a>
-  <a href="../Genesis/Genesis-34.txt">34章</a>
-  <a href="../Genesis/Genesis-35.txt">35章</a>
-  <a href="../Genesis/Genesis-36.txt">36章</a>
-  <a href="../Genesis/Genesis-37.txt">37章</a>
-  <a href="../Genesis/Genesis-38.txt">38章</a>
-  <a href="../Genesis/Genesis-39.txt">39章</a>
-  <a href="../Genesis/Genesis-40.txt">40章</a>
+| [16章](../Genesis/Genesis-16.txt) | [17章](../Genesis/Genesis-17.txt) | [18章](../Genesis/Genesis-18.txt) | [19章](../Genesis/Genesis-19.txt) | [20章](../Genesis/Genesis-20.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 
-  <a href="../Genesis/Genesis-41.txt">41章</a>
-  <a href="../Genesis/Genesis-42.txt">42章</a>
-  <a href="../Genesis/Genesis-43.txt">43章</a>
-  <a href="../Genesis/Genesis-44.txt">44章</a>
-  <a href="../Genesis/Genesis-45.txt">45章</a>
-  <a href="../Genesis/Genesis-46.txt">46章</a>
-  <a href="../Genesis/Genesis-47.txt">47章</a>
-  <a href="../Genesis/Genesis-48.txt">48章</a>
-  <a href="../Genesis/Genesis-49.txt">49章</a>
-  <a href="../Genesis/Genesis-50.txt">50章</a>
+| [21章](../Genesis/Genesis-21.txt) | [22章](../Genesis/Genesis-22.txt) | [23章](../Genesis/Genesis-23.txt) | [24章](../Genesis/Genesis-24.txt) | [25章](../Genesis/Genesis-25.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 
-</div>
+| [26章](../Genesis/Genesis-26.txt) | [27章](../Genesis/Genesis-27.txt) | [28章](../Genesis/Genesis-28.txt) | [29章](../Genesis/Genesis-29.txt) | [30章](../Genesis/Genesis-30.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| [31章](../Genesis/Genesis-31.txt) | [32章](../Genesis/Genesis-32.txt) | [33章](../Genesis/Genesis-33.txt) | [34章](../Genesis/Genesis-34.txt) | [35章](../Genesis/Genesis-35.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| [36章](../Genesis/Genesis-36.txt) | [37章](../Genesis/Genesis-37.txt) | [38章](../Genesis/Genesis-38.txt) | [39章](../Genesis/Genesis-39.txt) | [40章](../Genesis/Genesis-40.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| [41章](../Genesis/Genesis-41.txt) | [42章](../Genesis/Genesis-42.txt) | [43章](../Genesis/Genesis-43.txt) | [44章](../Genesis/Genesis-44.txt) | [45章](../Genesis/Genesis-45.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| [46章](../Genesis/Genesis-46.txt) | [47章](../Genesis/Genesis-47.txt) | [48章](../Genesis/Genesis-48.txt) | [49章](../Genesis/Genesis-49.txt) | [50章](../Genesis/Genesis-50.txt) |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 
 ---
