@@ -15,7 +15,7 @@
 
 LXX とマソラ本文（MT）の間には、書によって本文に大きな差異があります。  
 どの書から読むべきか、差異の大きさに基づく優先度はこちらをご覧ください：  
-➡ [LXX と MT の本文差異が大きい書の優先度リスト](./doc/difference-overview.md)
+➡ [LXX と MT の本文差異ガイド](./doc/difference-overview.md)
 
 
 - [創世記 / Genesis](navigation/genesis.md)
