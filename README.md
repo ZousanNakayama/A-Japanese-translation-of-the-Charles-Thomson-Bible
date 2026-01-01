@@ -19,12 +19,23 @@
 - [申命記 / Deuteronomy](navigation/deuteronomy.md)
 
 
+---
+
+## 📄 七十人訳の特徴
+このリポジトリでは、七十人訳聖書（LXX）の日本語訳を章ごとに公開しています。
+以下のリンクから各書のナビゲーションページに移動できます。
+- [創世記 / Genesis](navigation/genesis.md)
+- [出エジプト記 / Exodus](navigation/exodus.md)
+- [レビ記 / Leviticus](navigation/leviticus.md)
+- [民数記 / Numbers](navigation/numbers.md)
+- [申命記 / Deuteronomy](navigation/deuteronomy.md)
+
+
 
 
 
 
 ---
-
 ## 📖 Charles Thomson Bible とは
 **Charles Thomson Bible（1808）** は、アメリカ合衆国建国の父の一人、チャールズ・トムソンがギリシア語七十人訳聖書（Septuagint, LXX）から直接英語に忠実に翻訳した歴史的に重要な聖書です。  
 この翻訳聖書の主な特徴は以下の通りです。
