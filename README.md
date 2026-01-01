@@ -16,8 +16,8 @@
 - [創世記 / Genesis](navigation/genesis.md)
 - [出エジプト記 / Exodus](navigation/exodus.md)
 - [レビ記 / Leviticus](navigation/leviticus.md)
-- [民数記 / Numbers](navigation/numbers.md)
-- [申命記 / Deuteronomy](navigation/deuteronomy.md)
+- [民数記（未） / Numbers](navigation/numbers.md)
+- [申命記（未） / Deuteronomy](navigation/deuteronomy.md)
 
 LXX とマソラ本文（MT）の間には、書によって本文の差異が大きく異なります。  
 どの書から読むべきか、差異の大きさに基づく優先度はこちらをご覧ください：  
