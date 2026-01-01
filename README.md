@@ -10,11 +10,8 @@
 ---
 
 ## 📄 書一覧 / Books
-このリポジトリでは、七十人訳聖書（LXX）の日本語訳を章ごとに公開しています。
+このリポジトリでは、七十人訳聖書（LXX）の日本語訳を章ごとに公開しています。  
 以下のリンクから各書のナビゲーションページに移動できます。
-
-詳しい解説はこちらをご覧ください：  
-➡ [LXX と MT の本文差異が大きい書の優先度リスト](./where-to-read.md)
 
 - [創世記 / Genesis](navigation/genesis.md)
 - [出エジプト記 / Exodus](navigation/exodus.md)
@@ -22,7 +19,9 @@
 - [民数記 / Numbers](navigation/numbers.md)
 - [申命記 / Deuteronomy](navigation/deuteronomy.md)
 
-
+LXX とマソラ本文（MT）の間には、書によって本文の差異が大きく異なります。  
+どの書から読むべきか、差異の大きさに基づく優先度はこちらをご覧ください：  
+➡ [LXX と MT の本文差異が大きい書の優先度リスト](./doc/difference-overview.md)
 
 
 ---
